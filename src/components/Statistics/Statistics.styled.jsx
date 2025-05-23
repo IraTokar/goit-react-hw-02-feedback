@@ -18,4 +18,5 @@ export const StatisticsItem = styled.li`
         font-size: 25px;
         font-weight: 600;
     }
-`
+`;
+
